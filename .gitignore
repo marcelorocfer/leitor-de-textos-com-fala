@@ -1,1 +1,4 @@
-.idea/
+.idea/*
+.idea/leitor-de-textos-com-fala.iml
+.idea/misc.xml
+.idea/modules.xml
